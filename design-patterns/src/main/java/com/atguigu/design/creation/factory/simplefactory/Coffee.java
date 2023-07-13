@@ -8,3 +8,4 @@ package com.atguigu.design.creation.factory.simplefactory;
  */
 public abstract class Coffee {
 }
+
